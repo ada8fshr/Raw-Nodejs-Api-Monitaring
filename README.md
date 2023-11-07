@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API</a></h3>
+  <h3 align="center"><a href="https://github.com/mdtanvirahamedshanto/Raw-Nodejs-Api-Monitaring">Raw Node.js Project - Uptime Monitoring API</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -23,21 +23,17 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/learnwithsumit/uptime-monitoring-api-raw-node.git
+   git clone https://github.com/mdtanvirahamedshanto/Raw-Nodejs-Api-Monitaring
    ```
 2. Install dev dependencies
    ```sh
    npm install
    ```
-3. Checkout to branch lesson-7
-   ```sh
-   git checkout lesson-7
-   ```
-4. Run the app
+3. Run the app
    ```sh
    npm start
    ```
-5. Your app should be available in http://localhost:3000
+4. Your app should be available in http://localhost:3000
 
 <!-- CONTACT -->
 
