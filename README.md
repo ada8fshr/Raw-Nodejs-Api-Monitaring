@@ -48,7 +48,7 @@ Youtube Channel: [https://youtube.com/MdTavirAhamedShanto](https://youtube.com/M
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/MdTanvirAhamedShanto
+[youtube-url]: https://youtube.com/@MdTanvirAhamedShanto
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/mdtanvirahamedshanto.ofc
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
